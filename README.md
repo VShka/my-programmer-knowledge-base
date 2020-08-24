@@ -6,12 +6,15 @@
 #### Общее
 - 10 структур данных, которые вы должны знать : https://proglib.io/p/data-structures/
 - Крутой сайт по рефакторингу и паттернам проектирования : https://refactoring.guru/ru
+
 #### JavaScript
 - Книга выразительный JavaScript : https://eloquent-javascript.karmazzin.ru/
 - Книга Вы не знаете JS : https://github.com/azat-io/you-dont-know-js-ru
 - Learn JavaScript : https://learn.javascript.ru/intro
+
 #### Что использую в работе
 - Крутой справочник по вебу от MDN : https://developer.mozilla.org/ru/
+- Огромный справочник по HTML и CSS : http://htmlbook.ru/
 - Проверка кроссбраузерности : https://caniuse.com/
 - Шпаргалка по Grid CSS : https://tpverstak.ru/grid/
 - Ещё шпаргалка по Grid CSS (более исчерпывающая) : https://gridbyexample.com/examples/
