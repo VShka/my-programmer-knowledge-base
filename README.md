@@ -6,6 +6,9 @@
 #### Общее
 - 10 структур данных, которые вы должны знать : https://proglib.io/p/data-structures/
 - Крутой сайт по рефакторингу и паттернам проектирования : https://refactoring.guru/ru
+- Как читать чужой код : https://medium.com/daily-coding/code-fc8981cc0e08
+- 4 варианта практического использования регулярных выражений : https://techrocks.ru/2019/08/21/4-practical-use-cases-for-regular-expressions/
+- Профессия: фронтенд-разработчик : https://habr.com/ru/company/ruvds/blog/487384/
 
 #### JavaScript
 - Книга выразительный JavaScript : https://eloquent-javascript.karmazzin.ru/
@@ -32,3 +35,5 @@
 - Разрешения для медиа запросов : https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 - Если нужно показать свой код : https://pastebin.com/ или https://codepen.io/
 - Проверка регулярных выражений : https://regex101.com/
+- Планировщик : https://trello.com/
+- Работаю по методу "Помидора" :)
