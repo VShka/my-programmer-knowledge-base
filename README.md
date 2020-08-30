@@ -13,6 +13,14 @@
 #### Frontend
 - Профессия: фронтенд-разработчик: https://habr.com/ru/company/ruvds/blog/487384/
 
+#### Angular
+- 10 Angular приёмов: https://habr.com/ru/company/tinkoff/blog/514928/
+- Использование псевдонимов при импорте: https://dev-gang.ru/article/korotkie-puti-importa-typescript-v-angular-zm0z6bxrmb/
+- Как управлять состоянием в Angular по мере роста приложения: https://habr.com/ru/company/custis/blog/516290/
+- i18n в Angular: https://m.habr.com/ru/post/509390/
+- 6 концепций, которые нужно освоить архитектору Angular-приложений: https://habr.com/ru/company/ruvds/blog/503308/
+- Понимание декораторов ViewChild и ViewChildren в Angular 10: https://dev-gang.ru/article/ponimanie-dekoratorov-viewchild-i-viewchildren-v-angular--bpb46hqf3i/
+
 #### JavaScript
 - Книга выразительный JavaScript: https://eloquent-javascript.karmazzin.ru/
 - Книга Вы не знаете JS: https://github.com/azat-io/you-dont-know-js-ru
