@@ -21,6 +21,7 @@
 - 6 концепций, которые нужно освоить архитектору Angular-приложений: https://habr.com/ru/company/ruvds/blog/503308/
 - Понимание декораторов ViewChild и ViewChildren в Angular 10: https://dev-gang.ru/article/ponimanie-dekoratorov-viewchild-i-viewchildren-v-angular--bpb46hqf3i/
 - Распространённые ошибки при работе с Angular: https://xsltdev.ru/angular/tutorial/possible-errors/
+- Шаблоны коммуникаций в Angular: https://dev-gang.ru/article/shablony-kommunikacii-v-angular-wuroupt2mb/
 
 #### JavaScript
 - Книга выразительный JavaScript: https://eloquent-javascript.karmazzin.ru/
