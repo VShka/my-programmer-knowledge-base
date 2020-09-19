@@ -23,6 +23,11 @@
 - Распространённые ошибки при работе с Angular: https://xsltdev.ru/angular/tutorial/possible-errors/
 - Шаблоны коммуникаций в Angular: https://dev-gang.ru/article/shablony-kommunikacii-v-angular-wuroupt2mb/
 
+#### Vue.js
+- Перевод курса по Vue для начинающих на Vuemastery: https://habr.com/ru/company/ruvds/blog/509700/
+- Офф дока по Vue: https://ru.vuejs.org/v2/guide/
+- Офф дока по Nuxt: https://ru.nuxtjs.org/guide/installation
+
 #### JavaScript
 - Книга выразительный JavaScript: https://eloquent-javascript.karmazzin.ru/
 - Книга Вы не знаете JS: https://github.com/azat-io/you-dont-know-js-ru
@@ -40,6 +45,7 @@
 - Шрифты: https://fonts.google.com/
 - Ещё шрифты: https://fontstorage.com/
 - Можно вычитать и подсмотреть крутые CSS решения: https://css-tricks.com/
+- Прелоадеры: https://loading.io/css/
 - Примеры по трансформации(кривая Безье): https://cubic-bezier.com/
 - Крутая библиотека анимаций: https://animejs.com/documentation/
 - Шпаргалка по CSS анимации: https://html5book.ru/css3-animation/
