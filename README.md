@@ -22,6 +22,7 @@
 - Понимание декораторов ViewChild и ViewChildren в Angular 10: https://dev-gang.ru/article/ponimanie-dekoratorov-viewchild-i-viewchildren-v-angular--bpb46hqf3i/
 - Распространённые ошибки при работе с Angular: https://xsltdev.ru/angular/tutorial/possible-errors/
 - Шаблоны коммуникаций в Angular: https://dev-gang.ru/article/shablony-kommunikacii-v-angular-wuroupt2mb/
+- 5 советов для прокачки своих навыков в Angualar: https://habr.com/ru/company/tinkoff/blog/519052/
 
 #### Vue.js
 - Перевод курса по Vue для начинающих на Vuemastery: https://habr.com/ru/company/ruvds/blog/509700/
