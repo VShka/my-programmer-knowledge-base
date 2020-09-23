@@ -33,6 +33,7 @@
 - Книга выразительный JavaScript: https://eloquent-javascript.karmazzin.ru/
 - Книга Вы не знаете JS: https://github.com/azat-io/you-dont-know-js-ru
 - Learn JavaScript: https://learn.javascript.ru/intro
+- ES5 руководство по JS: https://habr.com/ru/post/281110/
 
 #### Что использую в работе
 - Крутой справочник по вебу от MDN: https://developer.mozilla.org/ru/
