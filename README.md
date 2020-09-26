@@ -35,6 +35,9 @@
 - Learn JavaScript: https://learn.javascript.ru/intro
 - ES5 руководство по JS: https://habr.com/ru/post/281110/
 
+#### git
+- Git happens! Решение типичных ошибок: https://habr.com/ru/company/flant/blog/419733/
+
 #### Что использую в работе
 - Крутой справочник по вебу от MDN: https://developer.mozilla.org/ru/
 - Огромный справочник по HTML и CSS: http://htmlbook.ru/
