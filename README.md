@@ -9,6 +9,7 @@
 - Как читать чужой код: https://medium.com/daily-coding/code-fc8981cc0e08
 - 4 варианта практического использования регулярных выражений: https://techrocks.ru/2019/08/21/4-practical-use-cases-for-regular-expressions/
 - REST API - обзор инструментов реализации и документирования для разработчиков: https://bizzapps.ru/b/rest-api/
+- ООП(интересный пример): https://habr.com/ru/post/345658/
 
 #### Frontend
 - Профессия: фронтенд-разработчик: https://habr.com/ru/company/ruvds/blog/487384/
