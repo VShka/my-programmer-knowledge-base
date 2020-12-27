@@ -11,6 +11,7 @@
 - REST API - обзор инструментов реализации и документирования для разработчиков: https://bizzapps.ru/b/rest-api/
 - ООП(интересный пример): https://habr.com/ru/post/345658/
 - gRPC в качестве протокола межсервисного взаимодействия: https://habr.com/ru/company/yandex/blog/484068/
+- 9 тяжёлых уроков разработки, которые стоит усвоить: https://m.habr.com/ru/company/skillfactory/blog/533372/
 
 #### Frontend
 - Профессия: фронтенд-разработчик: https://habr.com/ru/company/ruvds/blog/487384/
