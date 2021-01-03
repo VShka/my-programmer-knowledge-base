@@ -15,6 +15,10 @@
 
 #### Frontend
 - Профессия: фронтенд-разработчик: https://habr.com/ru/company/ruvds/blog/487384/
+- Всё, что касается технологии Service Workers {
+  https://habr.com/ru/company/2gis/blog/345552/
+  https://developer.mozilla.org/ru/docs/Web/API/Service_Worker_API
+}
 
 #### Angular
 - 10 Angular приёмов: https://habr.com/ru/company/tinkoff/blog/514928/
