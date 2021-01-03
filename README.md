@@ -15,6 +15,7 @@
 
 #### Frontend
 - Профессия: фронтенд-разработчик: https://habr.com/ru/company/ruvds/blog/487384/
+- PWA - это просто: https://habr.com/ru/post/418923/
 - Всё, что касается технологии Service Workers {
   https://habr.com/ru/company/2gis/blog/345552/
   https://developer.mozilla.org/ru/docs/Web/API/Service_Worker_API
