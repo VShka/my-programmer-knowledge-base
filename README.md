@@ -21,6 +21,9 @@
   https://developer.mozilla.org/ru/docs/Web/API/Service_Worker_API
 }
 
+#### Backend
+- Что нужно знать новичку о бэке: https://tproger.ru/translations/backend-web-development/
+
 #### Angular
 - 10 Angular приёмов: https://habr.com/ru/company/tinkoff/blog/514928/
 - Использование псевдонимов при импорте: https://dev-gang.ru/article/korotkie-puti-importa-typescript-v-angular-zm0z6bxrmb/
@@ -69,3 +72,9 @@
 - Проверка регулярных выражений: https://regex101.com/
 - Планировщик: https://trello.com/
 - Работаю по методу "Помидора" :)
+
+#### Программирование в других областях:
+- Моделирование
+  - Часы в стиле стимпанк: https://www.mjoldfield.com/atelier/2012/08/ntp-nixie.html
+  - Квадракоптер на питоне: https://m.habr.com/ru/post/438496/
+  - Робот-пылесос на Arduino: https://m.habr.com/ru/post/382131/
