@@ -45,6 +45,7 @@
 - Книга Вы не знаете JS: https://github.com/azat-io/you-dont-know-js-ru
 - Learn JavaScript: https://learn.javascript.ru/intro
 - ES5 руководство по JS: https://habr.com/ru/post/281110/
+- Полное руководство по датам в JavaScript: https://dev-gang.ru/article/polnoe-rukovodstvo-po-datam-v-javascript-75mz6nn28d/
 
 #### git
 - Git happens! Решение типичных ошибок: https://habr.com/ru/company/flant/blog/419733/
